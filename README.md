@@ -1,4 +1,4 @@
-<h1>Carpeta base, con las imágenes a utilizar en la creación de una página web</h1>
+<h1>Carpeta base con las imágenes a utilizar en la creación de una página web</h1>
 <h2>Creada por medio de Bootstrap</h2>
 <br>
 <h2>Al descargar este proyecto, debes efectuar los siguientes pasos:</h2>
